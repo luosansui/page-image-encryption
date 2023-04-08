@@ -1,1 +1,0 @@
-(function(){"use strict";const o=t=>{const n=new Uint8Array(t),c=new TextDecoder("utf-8").decode(n);return new Function(`return ${c}`)()};let e=null;self.addEventListener("message",t=>{const{args:n,func:s}=t.data;if(s)e=o(s);else if(n){const c=(e==null?void 0:e(...n))??void 0;self.postMessage(c)}})})();

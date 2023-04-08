@@ -1,1 +1,0 @@
-const e="LSB隐写",n="1.0.0",s="基于最低有效位的图像隐写方法",t="javascript",a={regex:"",required:!0,message:""},o={name:e,version:n,description:s,language:t,keyRule:a};export{o as default,s as description,a as keyRule,t as language,e as name,n as version};

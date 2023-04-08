@@ -1,0 +1,1 @@
+const e="Arnold变换",n="encry_arnold",o="1.0.0",s="基于Arnold变换, 对图像像素位置置乱, 加密结果是正方形",r="javascript",t={regex:"^0*(100|[1-9][0-9]?)$",required:!0,message:"请输入数字范围为1-100"},a={name:e,key:n,version:o,description:s,language:r,keyRule:t};export{a as default,s as description,n as key,t as keyRule,r as language,e as name,o as version};
