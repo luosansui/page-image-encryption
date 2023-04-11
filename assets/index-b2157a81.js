@@ -1,0 +1,1 @@
+const e="基于DCT变换的隐写术",n="stega_dct",t="1.0.0",o="基于DCT变换的图像隐写方法",s="javascript",c={regex:"",required:!0,message:""},a={repeat:!0},r={name:e,key:n,version:t,description:o,language:s,keyRule:c,componentRule:a};export{a as componentRule,r as default,o as description,n as key,c as keyRule,s as language,e as name,t as version};
